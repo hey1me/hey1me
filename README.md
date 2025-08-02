@@ -5,7 +5,7 @@
 
 ---
 
-- ♥️ I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- ♥️ I am a Linux Enthusiast, And Career in Cyber Security.
 
 ---
 
