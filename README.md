@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nata+Sans&letterSpacing=1px&weight=600&size=40&duration=2000&pause=880&center=true&vCenter=true&width=435&lines=Hey1Me+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=hey1me&color=blue&style=for-the-badge&label=Views&base=ONLINE&abbreviated=false)
+![](https://komarev.com/ghpvc/?username=hey1me&color=blue&style=for-the-badge&label=Views&base=86&abbreviated=false)
 
 ---
 
