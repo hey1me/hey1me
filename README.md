@@ -9,7 +9,7 @@
 
 ---
 
-💬 Details
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=16&duration=1000&pause=1000&vCenter=true&repeat=false&width=435&lines=%F0%9F%92%AC+DETAILS)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey1me&theme=zenburn) 
 
