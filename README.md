@@ -5,7 +5,7 @@
 
 ---
 
-- ♥️ I am a Linux Enthusiast, And Career in Cyber Security.
+- // I am a Linux Enthusiast, And Career in Cyber Security.
 
 ---
 
