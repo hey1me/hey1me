@@ -2,14 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
-  <a href="https://github.com/hey1me/HEY_HyprArch/"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
+  <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
   <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/>
 <br/>
   <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Web%20Development-280459.svg?logo=devbox"/></a>
 <br/>
-  <img src="https://komarev.com/ghpvc/?username=hey1me&color=blue&style=flag&label=Views&base=86&abbreviated=false"/>
-  <img src="https://img.shields.io/github/license/hey1me/hey1me"/>
+  <a href="https://github.com/hyprland-community"><img src="https://img.shields.io/badge/Commnutiy-111111.svg?logo=hyprland"/></a>
 </p>
 
 ---
@@ -17,6 +16,13 @@
 - 🌟 I am a Linux Enthusiast, And Career in Cyber Security.
 
 ---
+
+<p align="center">
+  <a href="https://github.com/hey1me/HEY_HyprArch/"><img src="https://img.shields.io/badge/HEY_HyprArch-111111.svg?logo=hyprland"/></a>
+<br/>
+  <img src="https://komarev.com/ghpvc/?username=hey1me&color=blue&style=flag&label=Views&base=86&abbreviated=false"/>
+  <img src="https://img.shields.io/github/license/hey1me/hey1me"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=16&duration=1000&pause=1000&vCenter=true&repeat=false&width=435&lines=%F0%9F%92%AC+DETAILS)](https://git.io/typing-svg)
 
