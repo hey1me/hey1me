@@ -2,6 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nata+Sans&letterSpacing=1px&weight=600&size=40&duration=2000&pause=880&center=true&vCenter=true&width=435&lines=Hey1Me+%F0%9F%98%8E)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Arch%20Linux-00ffff)
+<br>
+![Static Badge](https://img.shields.io/badge/Cyber%20Security-ff474c)
+<br>
+![Static Badge](https://img.shields.io/badge/Web%20Development-add8e6)
+<br>
 ![](https://komarev.com/ghpvc/?username=hey1me&color=blue&style=for-the-badge&label=Views&base=86&abbreviated=false)
 
 ---
