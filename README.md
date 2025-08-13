@@ -13,7 +13,9 @@
 
 ---
 
-- 🌟 I am a Linux Enthusiast, And Career in Cyber Security.
+- 🌟 I am a Linux Enthusiast.
+- 󱨑 Specializing in CyberSecurity.
+-  Always Legally Do Everything's.
 
 ---
 
