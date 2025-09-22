@@ -35,8 +35,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/hey1me)
 
-Join Our Community Group - Telegram:
+Join Hey_HyprArch Community Group:
 <a href="https://t.me/Hey_HyprArch"><img src="https://img.shields.io/badge/Telegram-002991.svg?logo=telegram"/></a>
+
+Our HEY_HyprArch is User-friendly and Best for Daily Use&Gaming !
 
 <a href="https://paypal.me/TengQing1016"><img src="https://img.shields.io/badge/PayPal-002991.svg?logo=paypal"/></a>
 
