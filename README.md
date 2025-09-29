@@ -49,4 +49,4 @@ Best For AMD Laptop.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nata+Sans&weight=500&size=30&letterSpacing=1px&duration=4000&pause=890&center=true&vCenter=true&width=435&lines=Thank+You+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 Here My Mail📬 : 
-<a href="mailto:hey1me@protonmail.com">Hey1MeMail</a>
+<a href="mailto:hey1me@protonmail.com">Hey1Me Mail</a>
