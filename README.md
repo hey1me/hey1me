@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey1me&label=Profile%20Views&color=0e75b6&style=flat" alt="hey1me" /> <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
   <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
-  <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Web%20Development-280459.svg?logo=devbox"/></a> </p>
+  <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a> </p>
 
 - 🛍️ All Products Also Available At GumRoad: [https://hey1me.gumroad.com/](https://hey1me.gumroad.com/)
 
@@ -24,7 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=hey1me&theme=tokyonight&hide_border=true)<br/>
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In code and in mind, a little space can make all the difference. Optimize yourself. Be the better you.)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Architect&borderColor=gray&quotesUrl=https://github.com/hey1me/hey1me/blob/main/quote.json)
 
 ---
   ## 💰 You can help me by Donating
