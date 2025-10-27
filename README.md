@@ -42,8 +42,7 @@
   -
   HEY_HyprArch Server-Purposes Linux (Built-in Types of Pre-Setup Servers, Choose Your Like Before Install)
 - **Cyber Security Projects**
-  -
-  Programs, Codes & Scripts that provide more convenient to everyone
+  - Programs, Codes & Scripts that provide more convenient to everyone
   -
   Optimizing Speed of Work, Long Term Maintainability (Automation Scripts,...)
   -
