@@ -35,7 +35,7 @@
 - **Arch Linux Projects**
   - HEY_HyprArch Development (Keep improving for giving the best experience to guys)
   - Widgets Development (Eww, AGS, QuickShell,... Widgets)
-  - Optimizing for Laptop, Gaming, Productivity Experience (Projects for Battery, OverClock,... Programs)
+  - Optimizing for Laptop, Gaming, Productivity Experience (Programs for Battery, OverClock,...)
   - HEY_HyprArch Server-Purposes Linux (Built-in Types of Pre-Setup Servers, Choose Your Like Before Install)
 - **Cyber Security Projects**
   - Programs, Codes & Scripts that provide more convenient to everyone
