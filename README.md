@@ -1,7 +1,7 @@
 <h1 align="center">I'm HEY1ME.</h1>
 <h3 align="center">🇲🇾 I'm from Malaysia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hey1me&label=Profile%20Views&color=0e75b6&style=flat" alt="hey1me" /> <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hey1me&label=Profile%20Views&color=0e75b6&style=flat" alt="hey1me" /> <a href="#"><img src="https://img.shields.io/badge/MIT%20LICENSE-309cb7.svg"/></a> <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
   <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
   <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a> </p>
 
