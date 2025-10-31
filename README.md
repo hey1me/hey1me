@@ -3,16 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey1me&label=Profile%20Views&color=0e75b6&style=flat" alt="hey1me" /> <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
   <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
-  <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a> Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
-
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg </p>
+  <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a> </p>
 
 🌟I am a Linux Enthusiast. 
 🚩Specializing in CyberSecurity. 
