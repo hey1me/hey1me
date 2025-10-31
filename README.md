@@ -38,7 +38,7 @@
 ### ✍️ Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Architect&borderColor=gray&quotesUrl=https://github.com/hey1me/hey1me/blob/main/quote.json)
 
-## 💰 You can help me by Donating
+## 💰 You Can Support Me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TengQing1016) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
 
 # 📊 GitHub Stats:
