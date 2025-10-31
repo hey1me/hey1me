@@ -44,3 +44,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hey1me&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hey1me&theme=tokyonight&hide_border=true)<br/>
+
+[![Stargazers over time](https://starchart.cc/hey1me/hey1me.svg?variant=adaptive)](https://starchart.cc/hey1me/hey1me)
