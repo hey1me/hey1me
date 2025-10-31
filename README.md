@@ -5,6 +5,10 @@
   <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
   <img src="https://img.shields.io/badge/Wayland-111111.svg?logo=wayland"/> <a href="#"><img src="https://img.shields.io/badge/Cyber%20Security-ff474c.svg?logo=hackerone"/></a> </p>
 
+🌟 I am a Linux Enthusiast.
+🚩 Specializing in CyberSecurity.
+💯 Always Legally Do Everything's.
+
 - 🛍️ All Products Also Available At GumRoad: [https://hey1me.gumroad.com/](https://hey1me.gumroad.com/)
 
 - 📫 How to reach me: **hey1me@protonmail.com**
