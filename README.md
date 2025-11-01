@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **hey1me@protonmail.com**
 
-- 🐧 HEY_HyprArch Linux is A User-friendly and Optimized for Daily Use & Gaming ! Best For AMD CPU Laptop. [HEY_HyprArch Linux](https://github.com/hey1me/HEY_HyprArch)
+- 🐧 HEY_HyprArch Linux is A User-friendly and Optimized for Daily Use & Gaming! [HEY_HyprArch Linux](https://github.com/hey1me/HEY_HyprArch)
 
 - 🎬 Subscribe Hey1Me YouTube Channel: [https://www.youtube.com/@hey1me](https://www.youtube.com/@hey1me)
 
