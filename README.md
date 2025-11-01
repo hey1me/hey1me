@@ -41,8 +41,9 @@
 ## 💰 You Can Support Me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TengQing1016) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
 
-![ko-fi_profile](https://github.com/user-attachments/assets/5ef0f795-7e15-49aa-9cbc-aa1ee71e25d0)
-
+<div width="200">
+  ![ko-fi_profile](https://github.com/user-attachments/assets/5ef0f795-7e15-49aa-9cbc-aa1ee71e25d0)
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hey1me&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
