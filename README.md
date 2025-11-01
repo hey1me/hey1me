@@ -15,6 +15,8 @@
 
 - 🐧 HEY_HyprArch Linux is A User-friendly and Optimized for Daily Use & Gaming ! Best For AMD CPU Laptop. [HEY_HyprArch Linux](https://github.com/hey1me/HEY_HyprArch)
 
+- 🎬 Subscribe to Hey1Me YouTube Channel: [https://www.youtube.com/@hey1me](https://www.youtube.com/@hey1me)
+
 - 🤝 Join Hey_HyprArch Linux Community Group: [https://t.me/Hey_HyprArch](https://t.me/Hey_HyprArch)
 
 
