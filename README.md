@@ -1,5 +1,6 @@
-<h1 align="center">I'm HEY1ME.</h1>
-<h3 align="center">🇲🇾 I'm from Malaysia.</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&letterSpacing=&duration=4000&pause=&color=2683AC&center=true&vCenter=true&width=660&height=55&lines=I'm+HEY1ME)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&letterSpacing=&duration=4000&pause=&color=2683AC&center=true&vCenter=true&width=660&height=55&lines=%F0%9F%87%B2%F0%9F%87%BE+I'm+from+Malaysia)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey1me&label=Profile%20Views&color=0e75b6&style=flat" alt="hey1me" /> <a href="#"><img src="https://img.shields.io/badge/MIT%20LICENSE-309cb7.svg"/></a> <a href="https://github.com/hey1me/ARCH_INSTALLATION/"><img src="https://img.shields.io/badge/Arch%20Linux-111111.svg?logo=archlinux"/></a>
   <a href="https://github.com/hyprland"><img src="https://img.shields.io/badge/Hyprland-111111.svg?logo=hyprland"/></a>
@@ -47,5 +48,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=hey1me&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hey1me&theme=tokyonight&hide_border=true)<br/>
 
----
-![ko-fi_profile](https://github.com/user-attachments/assets/5ef0f795-7e15-49aa-9cbc-aa1ee71e25d0)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&letterSpacing=&duration=4000&pause=&color=2683AC&center=true&vCenter=true&width=660&height=55&lines=Thanks+for+Support)](https://git.io/typing-svg)
