@@ -16,7 +16,6 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@hey1me"><img src="https://img.shields.io/badge/Hey1me-YouTube-5865F2?style=for-the-badge&logo=youtube&color=FF0000&logoColor=D9E0EE&labelColor=000000"/></a>
-  <a href="https://t.me/Hey_HyprArch"><img src="https://img.shields.io/badge/HEY_HyprArch-Telegram-5865F2?style=for-the-badge&logo=telegram&color=26A5E4&logoColor=D9E0EE&labelColor=000000"/></a>
   <a href="mailto:hey1me@protonmail.com"><img src="https://img.shields.io/badge/Hey1Me-Mail-5865F2?style=for-the-badge&logo=gmail&color=6D4AFF&logoColor=D9E0EE&labelColor=000000"/></a>
 </p>
 
