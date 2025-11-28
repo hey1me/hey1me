@@ -4,7 +4,7 @@
 
 <p align="center">
   <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
-    <a href="https://github.com/hey1me/Hey1MeOS/"><img src="https://img.shields.io/badge/Hey1MeOS-Linux-0092CD?style=for-the-badge&logo=hyprland&color=58E1FF&logoColor=D9E0EE&labelColor=000000"/></a>
+    <a href="https://github.com/hey1me/Hey1MeOS/"><img src="https://img.shields.io/badge/Hey1Me_OS-Linux-0092CD?style=for-the-badge&logo=hyprland&color=58E1FF&logoColor=D9E0EE&labelColor=000000"/></a>
   <sub><sup><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25"/></sup></sub>
 </p>
 <p align="center">
