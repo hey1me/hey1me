@@ -21,14 +21,12 @@
 
 ## 🚀 What I Offer
 - **Arch Linux Projects**
-  - HEY_HyprArch Development (Keep improving for giving the best experience to guys)
+  - Hey1MeOS Development (Keep improving for giving the best experience to guys)
   - Widgets Development (Eww, AGS, QuickShell,... Widgets)
   - Optimizing for Laptop, Gaming, Productivity Experience (Programs for Battery, OverClock,...)
-  - HEY_HyprArch Server-Purposes Linux (Built-in Types of Pre-Setup Servers, Choose Your Like Before Install)
 - **Cyber Security Projects**
   - Programs, Codes & Scripts that provide more convenient to everyone
   - Optimizing Speed of Work, Long Term Maintainability (Automation Scripts,...)
-  - HEY_HyprArch H4CK Linux (Design for H4cking-Purposes)
 - **Web App Development**
   - Modern, responsive, productive apps
   - Animations Optimization (Smooth Transitions)
@@ -37,7 +35,7 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Architect&borderColor=gray&quotesUrl=https://github.com/hey1me/hey1me/blob/main/quote.json)
 
 ## 💰 You Can Support Me by Donating
-<a href="https://paypal.me/TengQing1016"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me) [![GumRoad](https://img.shields.io/badge/GumRoad-ff4363?style=for-the-badge&logo=gumroad&logoColor=white)](https://hey1me.gumroad.com/)
+<a href="https://paypal.me/TengQing1016"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hey1me&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
