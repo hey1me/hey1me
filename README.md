@@ -27,9 +27,6 @@
 - **Cyber Security Projects**
   - Programs, Codes & Scripts that provide more convenient to everyone
   - Optimizing Speed of Work, Long Term Maintainability (Automation Scripts,...)
-- **Web App Development**
-  - Modern, responsive, productive apps
-  - Animations Optimization (Smooth Transitions)
 
 ### ✍️ Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Architect&borderColor=gray&quotesUrl=https://github.com/hey1me/hey1me/blob/main/quote.json)
