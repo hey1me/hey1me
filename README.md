@@ -35,6 +35,6 @@
 <a href="https://paypal.me/TengQing1016"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hey1me&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey1me&theme=react)<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=37&letterSpacing=&duration=4000&pause=&color=2683AC&center=true&vCenter=true&width=660&height=55&lines=Thanks+for+Support)](https://git.io/typing-svg)
