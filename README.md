@@ -32,7 +32,7 @@
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&font=Architect&borderColor=gray&quotesUrl=https://github.com/hey1me/hey1me/blob/main/quote.json)
 
 ## 💰 You Can Support Me by Donating
-<a href="https://paypal.me/TengQing1016"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me)
+<a href="https://paypal.me/TengQing1016"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/hey1me) [![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Hey1Me)
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hey1me&theme=react)<br/>
