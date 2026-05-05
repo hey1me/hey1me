@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1e3c72&text=Hey1Me&section=header&reversal=false&textBg=false&fontColor=f0f0f0&fontSize=45&fontAlign=50&fontAlignY=28&animation=scaleIn&desc=Linux%20Enthusiast%20&descSize=24&descAlignY=56" />
 </p>
 
+### Vulnerability Researcher(Learner) | CTF Player | Linux Nerd
 
 <p align="center">
   <a href="https://hey1me.org"><img src="https://img.shields.io/badge/Hey1Me-Official%20Website-0092CD?style=for-the-badge&logo=linux&color=0092CD&logoColor=D9E0EE&labelColor=000000"/></a>
