@@ -45,6 +45,7 @@
 ## 🚀 What Open-Source Projects I Offer
 - **CyberSecurity**
   - [CyberSecurity Books](https://github.com/hey1me/Books)
+  - [HeyShell CLI Tool](https://github.com/hey1me/HeyShell)
 - **Linux**
 - **CTF Writeups**
 
